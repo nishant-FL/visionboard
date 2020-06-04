@@ -1,0 +1,16 @@
+.skills{
+	display: grid;
+	grid-column: 1fr 1fr
+	background-color: red;
+
+}
+
+.list{
+	display: grid;
+	grid-auto-columns: auto;
+	grid-auto-rows: 1; 
+}
+
+h1{
+	background-color: 
+}
